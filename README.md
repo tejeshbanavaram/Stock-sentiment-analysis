@@ -1,6 +1,6 @@
 # Stock-sentiment-analysis
 
-To identify Stock Sentiment analysis NLP Techniques - Bag of words or TF-IDT  
+To identify Stock Sentiment analysis NLP Techniques - Used Bag of words for model 1 or TF-IDT for model 2  
 
 Stock Sentiment analysis is performed to identify if stock value of company will raise or fall based on the news updates we receive about the company
 
